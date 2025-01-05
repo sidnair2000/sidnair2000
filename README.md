@@ -53,11 +53,12 @@ Hi there! 👋<br>I'm Sidharth, a passionate student and aspiring Data Engineer/
 
 # 🏅 Certifications:
 
-![Azure Solutions Architect Expert](https://via.placeholder.com/150x50?text=Azure+Solutions+Architect+Expert)
-![Azure Data Engineer Associate](https://via.placeholder.com/150x50?text=Azure+Data+Engineer+DP-203)
-![Azure Administrator Associate](https://via.placeholder.com/150x50?text=Azure+Administrator+AZ-104)
-![Power BI Associate](https://via.placeholder.com/150x50?text=Power+BI+Associate)
-![Azure Fundamentals](https://via.placeholder.com/150x50?text=Azure+Fundamentals+AZ-900)
+![Azure Solutions Architect Expert](https://img.shields.io/badge/Cert-Azure%20Solutions%20Architect%20Expert-blue?style=for-the-badge)
+![Azure Data Engineer Associate](https://img.shields.io/badge/Cert-Azure%20Data%20Engineer%20DP--203-blue?style=for-the-badge)
+![Azure Administrator Associate](https://img.shields.io/badge/Cert-Azure%20Administrator%20AZ--104-blue?style=for-the-badge)
+![Power BI Associate](https://img.shields.io/badge/Cert-Power%20BI%20Associate-blue?style=for-the-badge)
+![Azure Fundamentals](https://img.shields.io/badge/Cert-Azure%20Fundamentals%20AZ--900-blue?style=for-the-badge)
+
 
 
 
