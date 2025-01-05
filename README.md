@@ -54,10 +54,10 @@ Hi there! 👋<br>I'm Sidharth, a passionate student and aspiring Data Engineer/
 # 🏅 Certifications:
 
 [![Microsoft Certified: Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
-[![Microsoft Certified: Azure Data Engineer Associate (DP-203)](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer%20Associate%20%28DP-203%29-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/)
-[![Microsoft Certified: Azure Administrator Associate (AZ-104)](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate%20%28AZ-104%29-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+[![Microsoft Certified: Azure Data Engineer Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer%20Associate%20%28DP-203%29-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/)
+[![Microsoft Certified: Azure Administrator Associate](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate%20%28AZ-104%29-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
 [![Microsoft Certified: Power BI Associate](https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Associate-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/power-bi-associate/)
-[![Microsoft Certified: Azure Fundamentals (AZ-900)](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20%28AZ-900%29-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20%28AZ-900%29-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
  
  
