@@ -76,4 +76,8 @@ Hi there! 👋<br>I'm Sidharth, a passionate student and aspiring Data Engineer/
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=sidnair2000&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false)](https://github.com/sidnair2000)
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
