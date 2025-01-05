@@ -53,11 +53,12 @@ Hi there! 👋<br>I'm Sidharth, a passionate student and aspiring Data Engineer/
 
 # 🏅 Certifications:
 
-[![Microsoft Certified: Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Solutions%20Architect%20Expert-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
-[![Microsoft Certified: Azure Data Engineer Associate (DP-203)](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Engineer%20Associate%20%28DP-203%29-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/)
-[![Microsoft Certified: Azure Administrator Associate (AZ-104)](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Administrator%20Associate%20%28AZ-104%29-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
-[![Microsoft Certified: Power BI Associate](https://img.shields.io/badge/Microsoft%20Certified-Power%20BI%20Associate-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/power-bi-associate/)
-[![Microsoft Certified: Azure Fundamentals (AZ-900)](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20%28AZ-900%29-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+![Azure Solutions Architect Expert](https://via.placeholder.com/150x50?text=Azure+Solutions+Architect+Expert)
+![Azure Data Engineer Associate](https://via.placeholder.com/150x50?text=Azure+Data+Engineer+DP-203)
+![Azure Administrator Associate](https://via.placeholder.com/150x50?text=Azure+Administrator+AZ-104)
+![Power BI Associate](https://via.placeholder.com/150x50?text=Power+BI+Associate)
+![Azure Fundamentals](https://via.placeholder.com/150x50?text=Azure+Fundamentals+AZ-900)
+
 
 
  
