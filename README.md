@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm Sidharth, a passionate student and aspiring Data Engineer/ Software Engineer/Data Scientist.<br><br>🎓 Currently pursuing Masters at University College Dublin.<br>💻 I enjoy working on developing cloud and data solutions and building interactive applications.<br>🌱 I’m always eager to learn and grow, exploring new technologies and challenges.<br>🚀 Check out my projects to see what I’ve been working on!<br>Feel free to connect with me or collaborate on exciting ideas. Let’s build something awesome together!
+Hi there! 👋<br>I'm Sidharth, a passionate student and aspiring Data Engineer/ Software Engineer/Data Scientist.<br><br>🎓 Completed my MSc in Information Systems at University College Dublin.<br>💻 I enjoy working on developing cloud and data solutions and building interactive applications.<br>🌱 I’m always eager to learn and grow, exploring new technologies and challenges.<br>🚀 Check out my projects to see what I’ve been working on!<br>Feel free to connect with me or collaborate on exciting ideas. Let’s build something awesome together!
 
 
 ## 🌐 Socials:
