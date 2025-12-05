@@ -16,6 +16,9 @@ Hi there! 👋<br>I'm Sidharth, a passionate student and aspiring Data Engineer/
 ![AzureSQLDB](https://img.shields.io/badge/azure%20sql%20db-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![AzureCosmosDB](https://img.shields.io/badge/azure%20cosmos%20db-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Web Development**:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
