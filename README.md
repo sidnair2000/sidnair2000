@@ -40,9 +40,9 @@ Hi there! 👋<br>I'm Sidharth, a passionate student and aspiring Data Engineer/
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![GitOps](https://img.shields.io/badge/gitops-%23407891.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bicep](https://img.shields.io/badge/azure%20bicep-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Resource Manager](https://img.shields.io/badge/azure%20resource%20manager-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitOps](https://img.shields.io/badge/gitops-%23407891.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **Monitoring & Observability**:  
 ![Azure Monitor](https://img.shields.io/badge/azure%20monitor-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
