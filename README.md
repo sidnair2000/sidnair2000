@@ -69,13 +69,16 @@ Hi there! 👋<br>I'm Sidharth, a passionate and aspiring Data Engineer/ Softwar
  
  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sidnair2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sidnair2000&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidnair2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidnair2000&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidnair2000&theme=dark&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sidnair2000&theme=dark)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sidnair2000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sidnair2000&theme=radical&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
