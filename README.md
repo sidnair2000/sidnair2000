@@ -70,14 +70,15 @@ Hi there! 👋<br>I'm Sidharth, a passionate and aspiring Data Engineer/ Softwar
  
 
 # 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidnair2000&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidnair2000&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidnair2000&theme=dark&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sidnair2000&theme=dark)
-
 ## 🏆 GitHub Trophies
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=sidnair2000&theme=radical&no-bg=true&margin-w=4)
+
 
 
 ### ✍️ Random Dev Quote
