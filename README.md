@@ -71,9 +71,8 @@ Hi there! 👋<br>I'm Sidharth, a passionate and aspiring Data Engineer/ Softwar
 
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sidnair2000&theme=dark)
 
-## 🏆 Contributions
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidnair2000&theme=dark&layout=compact)
 
-![Contribution Graph](https://ghchart.rshah.org/sidnair2000)
 
 
 
